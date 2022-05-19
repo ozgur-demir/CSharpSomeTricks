@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Operator overload
 
 Rectangle r1 = new Rectangle() { x=10, y=20 };
 Rectangle r2 = new Rectangle() { x=15, y=40 };
