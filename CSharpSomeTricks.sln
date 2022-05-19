@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventInClassExample", "Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType-ReferanceType-Diffrence", "ValueType-ReferanceType-Diffrence\ValueType-ReferanceType-Diffrence.csproj", "{4D48CFA6-EC8A-4DE9-B8C6-FBC844A5C487}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverrideVirtualMethod", "OverrideVirtualMethod\OverrideVirtualMethod.csproj", "{C381D71D-AC23-486D-8346-059A260C1487}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D48CFA6-EC8A-4DE9-B8C6-FBC844A5C487}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D48CFA6-EC8A-4DE9-B8C6-FBC844A5C487}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D48CFA6-EC8A-4DE9-B8C6-FBC844A5C487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C381D71D-AC23-486D-8346-059A260C1487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C381D71D-AC23-486D-8346-059A260C1487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C381D71D-AC23-486D-8346-059A260C1487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C381D71D-AC23-486D-8346-059A260C1487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
